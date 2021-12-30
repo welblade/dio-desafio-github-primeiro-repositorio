@@ -30,3 +30,22 @@ seu portfolio de projetos de forma ainda mais efetiva e organizada.
 ### Projetos ágeis com SCRUM
 SCRUM é um framework utilizado no gerenciamento ágil de projetos de
 software.  Esse curso ensinará os fundamentos e práticas da metodologia.
+
+### Pensamento Computacional
+Você conhecerá a habilidade inerente a área de ciência da computação. 
+Essa habilidade é utilizada em diversos âmbitos do conhecimento, não se
+restringindo à computação. No curso, você será capaz de entender os 
+pilares, decomposição, padrões, abstração e algoritmos do Pensamento 
+Computacional. Assim, conseguirá colocar em prática esse conhecimento e 
+aperfeiçoá-lo de forma autônoma.
+
+### Primeiros Passos Para Começar a Programar
+Neste curso você verá temas e conceitos que irão te auxiliar no processo
+de pensamento necessário para sua inserção inicial no mundo da programação.
+Antes de começar a programar é preciso entender a lógica e os conceitos
+básicos que são necessários para criação de algoritmos. 
+Aqui você terá uma visão geral evolutiva da computação, entendendo os 
+conceitos básicos e assim ficando pronto para compreender como o computador
+executa as instruções desenvolvidas pelos profissionais da programação.
+Com isso, você será capaz de criar suas próprias instruções e identificar
+qual o futuro paradigma que mais se identificará.
