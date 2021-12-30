@@ -57,5 +57,3 @@ de um repositório no GitHub. Para isso, tenha em mente todas as dicas e
 direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá 
 compartilhar suas anotações e exercícios em seu próprio repositório. 
 Criando assim, o primeiro (de muitos) projetos do seu portfólio ;-)
-
-PROJETO 0 / 1
