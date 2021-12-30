@@ -19,3 +19,14 @@ Nesse curso vamos aprender um pouco da história do Git e como ele se
 tornou essencial para otimizar projetos dos desenvolvedores.
 Também vamos conhecer seus principais comandos, como funciona a
 plataforma e como ela pode simplificar o seu trabalho.
+
+### Trabalhando com Branches no GitHub
+Aprenda a segmentar seus códigos-fonte por meio de Branches no GitHub,
+um dos principais hosts da tecnologia Git da atualidade. Para isso,
+o expert explora os conceitos de Branches e Commits, apresentando
+toda fundamentação e boas práticas para que você possa organizar o
+seu portfolio de projetos de forma ainda mais efetiva e organizada.
+
+### Projetos ágeis com SCRUM
+SCRUM é um framework utilizado no gerenciamento ágil de projetos de
+software.  Esse curso ensinará os fundamentos e práticas da metodologia.
